@@ -1,7 +1,7 @@
 # Project Name
 
 [![Vue Version](https://img.shields.io/badge/Vue-3.x-green.svg)](https://v3.vuejs.org/)
-[![Vite Version](https://img.shields.io/badge/Vite-2.x-blue.svg)](https://vitejs.dev/)
+[![Vite Version](https://img.shields.io/badge/Vite-4.x-blue.svg)](https://vitejs.dev/)
 
 Casino Royale
 
