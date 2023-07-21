@@ -8,7 +8,7 @@ import { computed } from "vue";
 import Cherry from "./Cherry.vue";
 import Lemon from "./Lemon.vue";
 import Watermelon from "./Watermelon.vue";
-import Orange from "./OrangeIcon.vue";
+import Orange from "./Orange.vue";
 import Spinner from "./Spinner.vue";
 const props = defineProps({
   symbol: String,
